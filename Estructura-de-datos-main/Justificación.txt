@@ -1,0 +1,3 @@
+Uso de set: Permite búsquedas en O(1) en promedio, lo que lo hace mucho más eficiente que listas o búsquedas lineales en el archivo.
+Estructura en archivo: Se usa un archivo de texto para almacenamiento persistente.
+Carga en memoria: Se cargan los datos en un set al iniciar el programa para optimizar la búsqueda.
